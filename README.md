@@ -1,0 +1,6 @@
+#利用less或者sass改善极客学院首页CSS
+
+利用less或者sass改善极客学院首页作业的CSS
+1.编写Gulp或FIS脚本对Sass或者Less进行编译。
+2.符合性能优化标准进行压缩合并以及充分利用Less或Sass优势少写代码。
+可查看官方API进行更多的运用。
